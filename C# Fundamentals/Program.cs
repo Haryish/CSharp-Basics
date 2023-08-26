@@ -10,6 +10,8 @@ namespace CSharpBasics
         {
             Console.WriteLine("Hello World::");
             Console.WriteLine("Please Run this program!!");
+
+            Console.ReadKey();
         }
     }
 }
